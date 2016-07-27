@@ -1,0 +1,75 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sean McElaney Resume</title>
+  </head>
+  <body>
+      <section>
+     <h1>Sean McElaney</h1>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>Professional Summary</h2>
+        <p>I am a self taught Freelance Graphic Designer. I am still learning new things is Photo Shop, Adobe Illustrator, And Cinema 4D. I strive to learn new things and try my best at whatever task may be at hand. I am currently learning how to code in HTML, CSS, And Java Script and interested in a future career in Website Developement.</p>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>Experience</h2>
+      <ul>
+         <li>
+           <h3>Cashier</h3>
+         <p>Stop & Shop, Brighton MA 02135, October 2015 - January 2016
+         </p>
+         <p>At Stop & Shop i had multiple different tasks which include running the register and when the store was running a slow i would do any needed tasks.
+         </p>
+     </li>
+       <li>
+          <h3>Laborer</h3>
+         <p>Tayag Construction, Lowell MA, June 2015 - August 2015</p>
+         <p>Prepped the job site for the day and did any needed tasks.</p>
+       </li>
+     </ul>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>Education</h2>
+        <ul>
+          <li>
+            <h3>High School Graduate</h3>
+            <p>Brighton High School - Brighton MA, 02135 2016<p>
+          </li>
+        <li><h3>Resilient Bootcamp</h3>
+            <span>Summer Course for Website Developement , 2016</span>
+         </li>
+
+      </ul>
+   <hr>
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>Cinema 4D</li>
+        <li>Adobe Photo Shop</li>
+        <li>Adobe Illustrator</li>
+        <li>Sony Vegas</li>
+        <li>Microsoft Office</li>
+      </ul>
+    </section>
+      <hr>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Sean McElaney</p>
+      <p>857-318-3796</p>
+      <p>bornmikey@gmail.com</p>
+      <p>
+        <a href="https://seanmcelaney.carbonmade.com">Portfolio</a>
+      <p>
+
+  </body>
+</html>
